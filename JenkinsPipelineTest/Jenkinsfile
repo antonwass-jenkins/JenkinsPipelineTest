@@ -1,4 +1,4 @@
 ﻿#!/usr/bin/env groovy
-node('master') {
-    echo 'hej'
+node('master'){
+	echo 'hej'
 }
